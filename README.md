@@ -1,2 +1,2 @@
-# Java DHCP Server by Daniel Hernández and Juan Carlos Suárez
-DHCP server developed in Java.
+# DHCP Server developed in Java
+DHCP Server developed in Java by Daniel Hernández and Juan Carlos Suárez.
